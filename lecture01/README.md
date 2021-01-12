@@ -4,7 +4,7 @@ paginate: true
 footer: 'Modelica 语言入门'
 ---
 
-# Lecture 1: Modelica简介
+# Lecture 1: 初窥Modelica
 作者：hyumo
 课程地址: https://github.com/hyumo/ModelicaPrimer
 
