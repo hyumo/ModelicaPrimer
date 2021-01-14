@@ -9,8 +9,8 @@
 ## 教程大纲
 | 课时数 | 课时标题 | 播放链接 |
 |:-----:|:--------|:-------|
-|第 1 课|[初窥Modelica](lecture01)|[哔哩哔哩](www.google.com)|
-|第 2 课|[Modelica环境搭建](lecture02)|[哔哩哔哩](www.google.com)|
+|第 1 课|[初窥Modelica](lecture01)|[哔哩哔哩](https://www.bilibili.com/video/BV1Mz4y1S73w/)|
+
 
 
 ## 参考资料：

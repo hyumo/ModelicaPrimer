@@ -7,6 +7,7 @@ footer: 'Lecture 1: 初窥Modelica'
 # Lecture 1: 初窥Modelica
 作者：hyumo
 课程地址: https://github.com/hyumo/ModelicaPrimer
+
 ---
 ## Modelica 是什么？
 - 一种用于建立复杂物理模型的高级编程语言。
