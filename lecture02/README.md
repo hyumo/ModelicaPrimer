@@ -1,7 +1,7 @@
 ---
 marp: false
 paginate: true
-footer: 'Lecture 2: Modleica环境搭建'
+footer: 'Lecture 2: Modelica环境搭建'
 ---
 
 # Lecture 2: Modelica 开发环境搭建
