@@ -1,5 +1,12 @@
 ﻿within Demo;
 model TestConstants
+  Modelica.Blocks.Sources.Constant const(k=5)
+    annotation (Placement(transformation(extent={{-80,10},{-60,30}})));
+  Modelica.Blocks.Sources.Constant const1(k=k)
+    annotation (Placement(transformation(extent={{-80,-30},{-60,-10}})));
+  parameter Real k=5 "Constant output value";
+  Modelica.Blocks.Sources.Constant const2(k=time)
+    annotation (Placement(transformation(extent={{-80,-70},{-60,-50}})));
   annotation (Icon(coordinateSystem(preserveAspectRatio=false)), Diagram(
         coordinateSystem(preserveAspectRatio=false), graphics={
         Text(

@@ -57,7 +57,6 @@ Free library from the `Modelica Association` to model mechanical (1D/3D), electr
 
 ---
 # Demo
-
 ---
 # Next - CombiTable
 
