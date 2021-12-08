@@ -1,0 +1,19 @@
+#1
+
+# This is table one
+double tab1(4, 2)
+0 0
+1 1
+2 2
+3 3
+
+
+
+# This is table two
+double tab2(6, 2)
+0 0
+1 1
+2 0
+3 0
+10 5
+20 100
